@@ -34,3 +34,4 @@
 
 #### [Проект №1](labs/project1.md)
 #### [Пример оформления отчета](labs/report.pdf)
+#### [Проект №2](labs/project2.md)
